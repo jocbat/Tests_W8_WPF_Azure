@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>W8PC01</Machine>
+    <WindowsUser>Developpeur02</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>FD7B448C71418FE9C2511131EB92E74710AD25D5D4BCA25D9AAC459B1780C2B2</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>00cd0190-6c59-4285-9123-5647350e026c_1.0.0.0_neutral__n2a7xn91hnac6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>00cd0190-6c59-4285-9123-5647350e026c_n2a7xn91hnac6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>00cd0190-6c59-4285-9123-5647350e026c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Developpeur02</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Projets_tests\Tests_W8_WPF_Azure\vBoardJos\vBoardJos\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-09T14:17:47.258</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Projets_tests\Tests_W8_WPF_Azure\vBoardJos\vBoardJos\bin\Debug\vBoardJos.exe">
+      <PackagePath>vBoardJos.exe</PackagePath>
+      <Modified>2012-07-09T14:18:52.765</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projets_tests\Tests_W8_WPF_Azure\vBoardJos\vBoardJos\bin\Debug\vBoardJos.pdb">
+      <PackagePath>vBoardJos.pdb</PackagePath>
+      <Modified>2012-07-09T14:18:52.724</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projets_tests\Tests_W8_WPF_Azure\vBoardJos\vBoardJos\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T16:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projets_tests\Tests_W8_WPF_Azure\vBoardJos\vBoardJos\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T16:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projets_tests\Tests_W8_WPF_Azure\vBoardJos\vBoardJos\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T16:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projets_tests\Tests_W8_WPF_Azure\vBoardJos\vBoardJos\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T16:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projets_tests\Tests_W8_WPF_Azure\vBoardJos\vBoardJos\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-04-23T21:03:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projets_tests\Tests_W8_WPF_Azure\vBoardJos\vBoardJos\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-07-09T14:18:49.193</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projets_tests\Tests_W8_WPF_Azure\vBoardJos\vBoardJos\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-07-09T14:17:37.998</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projets_tests\Tests_W8_WPF_Azure\vBoardJos\vBoardJos\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-07-09T14:17:46.977</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
